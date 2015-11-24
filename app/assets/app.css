@@ -128,3 +128,17 @@ span.name {
   font-size:1.1em;
   padding-left:5px;
 }
+
+
+.wrapper {
+  width: 1280px;
+  margin: 10px auto;
+}
+
+#side-holder {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 30px;
+  background: red;
+}
